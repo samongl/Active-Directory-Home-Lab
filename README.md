@@ -18,7 +18,7 @@ The purpose of this lab is to create an Active Directory (AD) domain controller 
 
 <p align="center">
 Launch the utility: <br/>
-<img https://imgur.com/a/gDyLrTP height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/gDyLrTP" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
