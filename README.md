@@ -17,12 +17,15 @@ The purpose of this lab is to create an Active Directory (AD) domain controller 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/HCJnVuK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Configuring Network Settings: <br/>
+<img src="https://i.imgur.com/HCJnVuK.png" height="80%" width="80%" alt="Active Directory Home Lab"/>
 <br />
 <br />
 Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/sMpsjIm.png" height="80%" width="80%" alt="Active Directory Home Lab"/>
+<br />
+<br />
+<img src="https://i.imgur.com/z8ThfaV.png" height="80%" width="80%" alt="Active Directory Home Lab"/>
 <br />
 <br />
 Enter the number of passes: <br/>
