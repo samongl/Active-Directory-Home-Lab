@@ -1,17 +1,18 @@
 # Active Directory Home Lab
 
 <h2>Description</h2>
-Create an Active Directory (AD) domain controller and DHCP server, and add a client to the domain.<br />
+The purpose of this lab is to create an Active Directory (AD) domain controller and DHCP server, and add a client to the domain.<br />
 
 
 <h2>Languages and Utilities Used</h2>
 
 - <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>VirtualBox</b>
 
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b> (21H2)
+- <b>Windows Server 2019</b>
 
 <h2>Program walk-through:</h2>
 
