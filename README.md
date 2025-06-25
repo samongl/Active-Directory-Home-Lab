@@ -21,31 +21,36 @@ Configuring Network Settings: <br/>
 <img src="https://i.imgur.com/HCJnVuK.png" height="80%" width="80%" alt="Active Directory Home Lab"/>
 <br />
 <br />
-Select the disk:  <br/>
+Adding Roles to the Server:  <br/>
 <img src="https://i.imgur.com/sMpsjIm.png" height="80%" width="80%" alt="Active Directory Home Lab"/>
 <br />
 <br />
 <img src="https://i.imgur.com/z8ThfaV.png" height="80%" width="80%" alt="Active Directory Home Lab"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/P4q4bwb.png" height="80%" width="80%" alt="Active Directory Home Lab"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/UODOiYE.png" height="80%" width="80%" alt="Active Directory Home Lab"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/W9sFTvC.png" height="80%" width="80%" alt="Active Directory Home Lab"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Setting up DHCP Server: <br/>
+<img src="https://i.imgur.com/ehNvqM1.png" height="80%" width="80%" alt="Active Directory Home Lab"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Scripts for Adding Users:  <br/>
+<img src="https://i.imgur.com/nULI4Jr.png" height="80%" width="80%" alt="Active Directory Home Lab"/>
+<br />
+<br />
+<img src="https://i.imgur.com/M5LT4H2.png" height="80%" width="80%" alt="Active Directory Home Lab"/>
+<br />
+<br />
+<img src="https://i.imgur.com/ayJpSwr.png" height="80%" width="80%" alt="Active Directory Home Lab"/>
+<br />
+<br />
 </p>
 
 <!--
